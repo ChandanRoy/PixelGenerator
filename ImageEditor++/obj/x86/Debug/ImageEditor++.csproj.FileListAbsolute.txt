@@ -1,0 +1,9 @@
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\ImageEditor__.Properties.Resources.resources
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\ImageEditor__.Form1.resources
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\bin\Debug\PixelGenerator++.exe
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\bin\Debug\PixelGenerator++.pdb
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\PixelGenerator++.exe
+C:\Users\BlackBird\Documents\Visual Studio 2010\Projects\ImageEditor++\ImageEditor++\obj\x86\Debug\PixelGenerator++.pdb
